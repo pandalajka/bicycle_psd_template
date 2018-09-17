@@ -127,7 +127,7 @@ nav {
 /* Work Section - Top */
   
 .work-top-left {
-    background-image: url('../img/company/oliviabig.png');
+    background-image: url('../img/company/OliviaBig.png');
     background-repeat: no-repeat;
     background-position: cover;
     width: 67%;
@@ -196,7 +196,7 @@ nav {
 }
 
 .work-top-right-bottom .photo-small {
-   background-image: url('../img/company/oliviasmall.png');
+   background-image: url('../img/company/OliviaSmall.png');
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
@@ -277,7 +277,7 @@ nav {
 }
 
 .work-center-left-bottom .photo-small {
-   background-image: url('../img/company/boriosasmall.png');
+   background-image: url('../img/company/BoriosaSmall.png');
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
@@ -382,7 +382,7 @@ nav {
 /* Testimonials */
 
 .testimonials {
-    width: 100%;
+   width: 100%;
 }
 
 .opinions {
