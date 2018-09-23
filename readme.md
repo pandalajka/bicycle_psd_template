@@ -1,7 +1,5 @@
 Simple PSD to HTML exercise to practise my coding skills. 
 
-It's not finished yet. The next step will be to optimize this for mobile devices and add some JavaScript magic.
-
 
 ## Technologies
 * HTML5
